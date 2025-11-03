@@ -1,0 +1,51 @@
+review,rating,sentiment
+"This movie was absolutely fantastic! The acting was superb and the plot kept me engaged throughout.",5,positive
+"Terrible waste of time. The storyline was confusing and the characters were poorly developed.",1,negative
+"A masterpiece of modern cinema. Every scene was beautifully crafted and emotionally powerful.",5,positive
+"I fell asleep halfway through. Boring and predictable with no redeeming qualities.",2,negative
+"Outstanding performance by the lead actor. The movie tackles complex themes with grace and intelligence.",5,positive
+"Disappointing sequel that fails to live up to the original. Lazy writing and poor direction.",2,negative
+"Incredible visual effects and a gripping story. This is cinema at its finest!",5,positive
+"Complete garbage. I can't believe I wasted money on this disaster of a film.",1,negative
+"Heartwarming and genuinely funny. A perfect family movie that everyone will enjoy.",4,positive
+"The worst movie I've seen this year. Painful to watch from start to finish.",1,negative
+"Brilliant direction and stellar performances. A must-see for any film enthusiast.",5,positive
+"Mediocre at best. Nothing special, just another forgettable Hollywood production.",3,neutral
+"Absolutely loved it! The soundtrack alone is worth the price of admission.",5,positive
+"Slow paced and dull. I expected much more based on the reviews.",2,negative
+"A thrilling ride from beginning to end. Edge-of-your-seat entertainment.",5,positive
+"Overhyped and underwhelming. The trailer was better than the actual movie.",2,negative
+"Beautiful cinematography and a touching story about family and redemption.",4,positive
+"Poorly executed with terrible special effects. Not even the actors could save this one.",1,negative
+"One of the best films I've seen in years. Thought-provoking and beautifully made.",5,positive
+"Predictable plot and wooden acting. Skip this one and save your time.",2,negative
+"Amazing chemistry between the leads. A romantic comedy done right!",4,positive
+"Confusing narrative that tries too hard to be clever. Just a mess overall.",2,negative
+"Spectacular action sequences and great character development. Highly recommended!",5,positive
+"Boring and pretentious. The director clearly thinks he's smarter than he is.",2,negative
+"A delightful surprise! Exceeded all my expectations with humor and heart.",4,positive
+"Awful screenplay and cringe-worthy dialogue. How did this get made?",1,negative
+"Phenomenal acting and a story that stays with you long after it ends.",5,positive
+"Decent movie but nothing groundbreaking. Worth watching if you have nothing else to do.",3,neutral
+"Masterful storytelling with unexpected twists. Keeps you guessing until the very end.",5,positive
+"Tries to do too much and fails at everything. A complete disappointment.",2,negative
+"Charming and well-acted. A feel-good movie that delivers on all fronts.",4,positive
+"Terrible pacing and an ending that makes no sense. Very frustrating experience.",2,negative
+"Absolutely breathtaking visuals and an epic story. Pure cinematic magic!",5,positive
+"Not terrible but not good either. Forgettable and uninspired.",3,neutral
+"Wonderful performances and a script that balances drama and comedy perfectly.",4,positive
+"Incoherent mess with no clear direction. I have no idea what the filmmakers were thinking.",1,negative
+"A triumph of storytelling. Emotional, powerful, and beautifully executed.",5,positive
+"Bland and formulaic. You've seen this exact movie a hundred times before.",3,neutral
+"Incredibly moving and well-crafted. Deserves all the awards it will surely receive.",5,positive
+"Painfully bad acting and a script that insults the audience's intelligence.",1,negative
+"Fun popcorn entertainment with great action scenes. Don't expect deep meaning.",4,positive
+"Tries too hard to be edgy and different. Comes off as pretentious instead.",2,negative
+"Captivating from the first scene to the last. A rollercoaster of emotions.",5,positive
+"Generic and unoriginal. Nothing you haven't seen done better elsewhere.",3,neutral
+"Outstanding cinematography and a haunting musical score. Art in motion.",5,positive
+"Poorly directed with continuity errors everywhere. Very unprofessional.",1,negative
+"Sweet and endearing. A simple story told with sincerity and warmth.",4,positive
+"Aggressively mediocre. Not worth the ticket price or your valuable time.",2,negative
+"A cinematic achievement that pushes boundaries. Bold, innovative, and unforgettable.",5,positive
+"Okay for a lazy afternoon but nothing to write home about. Passable entertainment.",3,neutral
